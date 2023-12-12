@@ -16,6 +16,7 @@ dhat.workspace = true
 nom-supreme.workspace = true
 glam.workspace = true
 nom_locate.workspace = true
+aochelpers = "*"
 
 [dev-dependencies]
 criterion.workspace = true
